@@ -1,0 +1,4 @@
+runtime: go112
+service: app-name
+
+# hadlersはgo依存
